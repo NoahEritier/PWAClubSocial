@@ -1,0 +1,21 @@
+{
+    "short_name": "ClubSocial",
+    "name": "Club Social",
+    "icons": [
+      {
+        "src": "LogoClubSocial.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "LogoClubSocial.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ],
+    "start_url": "https://clubsocial.4x.com.ar",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#ffffff",
+    "orientation": "portrait"
+  }
